@@ -1,0 +1,2 @@
+bugun python dasturlash tilida matnni ochish va matnga yozish, ularning turli usullari
+va pickle haqida o'rgandim.
